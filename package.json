@@ -1,0 +1,29 @@
+{
+  "name": "tp_cv",
+  "version": "1.0.0",
+  "description": "tp_cv_responsif",
+  "main": "cv_CMW.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diewrine/TP_Dev_web_cv_responsif.git"
+  },
+  "keywords": [
+    "Diewrine"
+  ],
+  "author": "Cheikh Mbacke Wade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diewrine/TP_Dev_web_cv_responsif/issues"
+  },
+  "homepage": "https://github.com/Diewrine/TP_Dev_web_cv_responsif#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
