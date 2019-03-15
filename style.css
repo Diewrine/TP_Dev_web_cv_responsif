@@ -1,121 +1,134 @@
-*
+#corps
 {
-	margin: 0px;
-	padding: 0px;
-}
-
-table
-{
-	width: 100%;
 	background-color: #7ed6df;
 }
 
-tr:first-child
+#titre
 {
-	height: 200px;
-	text-align: center;
-	background-color: #3498db;
+	text-align: 50%;
 }
 
-tr:first-child h1
-{
-	border: 2px solid #95a5a6;
-	width: 50%;
-	margin: auto;
-	padding: 21px;
-	margin-bottom: 12px;
-	color: white;
-}
-
-
-tr:nth-child(2)
-{
-	background-color:#95a5a6;
-	height: 100px;
-	color: white;
-	text-align: center;
+#d1
+{ 
 	width: 100%;
-}
-
-tr:nth-child(3) td:first-child h3
-{
-	margin-left: 20px;
-}
-
-
-
-tr:nth-child(3) td:first-child
-{
-	width: 30%
-}
-
-tr:nth-child(3) td:first-child h2,tr:nth-child(4) td:first-child h2
-{
-	background-color: #3498db;
+	text-align: center;
+	padding: 21px;
+	background-color: #7ed6df;
+	border: 4px solid #ffffff;
 	color: white;
-	margin-top: 20px;
-	padding-top: 10px;
-	padding-left: 33px;
 }
 
-tr:nth-child(3) td:first-child img
+#d2
+{
+	width: 100%;
+	text-align: center;
+	padding-top: 10px;
+	background-color: #95a5a6;
+}
+
+#d3
+{
+	height: 80px;
+	margin-top: 50px;
+	background-color:#3498db;
+	border-left: 35px solid #95a5a6;
+}
+
+#profil
+{
+	font-size: 30px;
+	padding-top: 15px;
+	padding-left: 45px
+}
+
+#contenu
+{
+	padding-left: 30px;
+	font-size: 12;
+}
+
+#d3_1
+{
+	background-color:#7ed6df;
+}
+
+#im
 {
 	width: 40%;
 	border: 4px solid #95a5a6;
 	border-radius: 15px;
-	margin-left:25%;
-	margin-top: 35px;
-	margin-bottom: 30px;
+	margin-left:5%;
+	margin-top: 15px;
+	margin-bottom: 10px;
 }
 
-tr:nth-child(3) td:first-child p
+#d4
 {
-	width: 80%;
-	margin: auto;
-	text-align: justify;
-	font-size: 20px;
-	color: #222222;
-}
-tr:nth-child(3) td:last-child
-{
-	width: 70%;
-	vertical-align: top;
+	width: 100%;
+	height: 80px;
+	margin-top: 50px;
+	background-color:#3498db;
+	border-left: 35px solid #95a5a6;
 }
 
-tr:nth-child(3) td:last-child h3
+#skills
 {
-	margin-left: 25px;
-	margin-top: 25px;
-}
-
-tr:nth-child(3) td:last-child ul
-{
-	margin-left: 55px;
-	padding: 15px;
-	font-size: 20px;
-}
-
-tr:nth-child(3) td:last-child h2,tr:nth-child(4) td:last-child h2
-{
-	color: white;
-	background-color: #95a5a6;
-	margin-top: 20px;
-	padding-top: 10px;
-	padding-left: 33px;
-	margin-left: 20px;
-	border-left: 18px solid #3498db;
-}
-
-#u1
-{
-	margin-left: 55px;
+	padding-left: 10px;
+	font-size: 30px;
 	padding-top: 15px;
-	font-size: 20px;
 }
 
-#u2
+#text1
 {
-	margin-left: 55px;
+	padding-left: 80px;
+	padding-top: 50px;
+	font-size: 40px;
+}
+
+#text2
+{
+	padding-left: 120px;
 	padding-top: 15px;
-	font-size: 20px;
+}
+
+#d5
+{
+	height: 80px;
+	margin-top: 50px;
+	background-color:#3498db;
+	border-left: 35px solid #95a5a6;
+}
+
+#d6
+{
+	height: 80px;
+	margin-top: 50px;
+	background-color:#3498db;
+	border-left: 35px solid #95a5a6;
+}
+
+#diplômes
+{
+	font-size: 30px;
+	padding-top: 15px;
+	padding-left: 45px
+}
+
+#loisirs
+{
+	padding-left: 10px;
+	font-size: 30px;
+	padding-top: 15px;
+}
+
+#fin1
+{
+	padding-top: 20px;
+	padding-left: 45px;
+}
+
+#fin2
+{
+	padding-left: 120px;
+	padding-top: 15px;
 }
